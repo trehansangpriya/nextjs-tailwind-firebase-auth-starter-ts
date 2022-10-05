@@ -7,13 +7,11 @@ This is a template for Nextjs with Tailwind, Firebase Auth Setup via React Conte
 1. Install the template using `create-next-app`
 
     ```bash
-    npx create-next-app --example https://github.com/trehansangpriya/nextjs-tailwind-firebase-auth-starter-ts
-    ```
+    npx create-next-app --example https://github.com/trehansangpriya/nextjs-tailwind-firebase-auth-starter-ts <App Name>
+    
+    # or
 
-    or
-
-    ```bash
-    yarn create next-app --example https://github.com/trehansangpriya/nextjs-tailwind-firebase-auth-starter-ts
+    yarn create next-app --example https://github.com/trehansangpriya/nextjs-tailwind-firebase-auth-starter-ts <App Name>
     ```
 
 2. Create a Firebase project.
